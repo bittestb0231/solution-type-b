@@ -13,18 +13,22 @@ public class Money {
 	}
 
 	public Money add(Money money) {
+		
 		return null;
 	}
 
 	public Money minus(Money money) {
+		this.minus(money);
 		return null;
 	}
 
 	public Money multiply(Money money) {
+		this.multiply(money);
 		return null;
 	}
 
 	public Money devide(Money money) {
+		this.devide(money);
 		return null;
 	}
 }
